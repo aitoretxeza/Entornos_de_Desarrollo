@@ -1,0 +1,7 @@
+1 - crear un repositorio en gethub
+2 - $ git clone <URL>
+3 - $ cd <nombre de repositorio>
+4 - creamos ficheros, editamos
+5 - $ git add <fichero> (behin bakarrik)
+6 - $ git commit -am "comentario"
+7 - $ git push origin master
