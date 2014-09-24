@@ -1,0 +1,15 @@
+Insatalacion Eclipse Ubuntu
+
+Descomprimir el archivo
+
+  tar -xvf eclipse-standard-luna-R-linux-gtk.tar.gz
+
+Editar el archivo eclipse.ini
+
+  nano eclipse/eclipse.ini
+  
+  Debajo de OpenFile añadir dos lineas
+  
+    openFile
+    -vm
+    /usr/local/jdk1.8.0_20/bin/
